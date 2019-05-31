@@ -1,5 +1,5 @@
 {
-  "name": "15.projext-vueegram2",
+  "name": "vuegram",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -9,7 +9,8 @@
   },
   "dependencies": {
     "core-js": "^2.6.5",
-    "vue": "^2.6.10"
+    "vue": "^2.6.10",
+    "vue-dragscroll": "^1.8.3"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "^3.8.0",
